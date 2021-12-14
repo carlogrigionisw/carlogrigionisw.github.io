@@ -1,11 +1,11 @@
-const CACHE_NAME = 'pennies';
+const CACHE_NAME = 'weather';
 const OFFLINE_URL = 'index.html';
-var filesToCache = [
+/*var filesToCache = [
     '/',
     '/index.html',
     '/css/style.css',
     '/js/main.js'
-];
+];*/
 
 /* Start the service worker and cache all of the app's content */
 self.addEventListener('install', function(event) {
