@@ -1,0 +1,21 @@
+{
+  "short_name": "Weather",
+  "name": "Weather: Do I need an umbrella?",
+  "icons": [
+    {
+      "src": "/images/UNIicon-196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "/images/UNIicon-1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
